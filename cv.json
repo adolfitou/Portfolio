@@ -120,7 +120,7 @@
       "name": "Centro multimedia en Raspberry Pi con acceso remoto por VPN",
       "description": "Desarrollé un servidor multimedia instalado con Docker en una Raspberry Pi, con varios contenedores que proporcionan funcionalidades como acceso remoto, monitoreo del sistema y subida de contenido de forma remota.",
       "highlights": [
-        "Proyecto muy valorado por el profesorado del IES San Juan de la Cruz por su nivel de complejidad y documentación",
+        "Proyecto muy valorado por el profesorado del IES San Juan de la Cruz",
         "Azure",
         "docker-compose",
         "Linux",
