@@ -107,6 +107,21 @@
       "name": "Bash"
     },
     {
+      "name": "Linux"
+    },
+    {
+      "name": "VirtualBox"
+    },
+    {
+      "name": "Hyper-V"
+    },
+    {
+      "name": "Networking"
+    },
+    {
+      "name": "Clonecilla"
+    },
+    {
       "name": "Inglés",
       "level": "A2"
     },
