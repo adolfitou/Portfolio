@@ -1,0 +1,135 @@
+{
+  "basics": {
+    "name": "Adolfo López Sánchez",
+    "label": "Desarroyador Web & Administrador de sistemas",
+    "image": "https://avatars.githubusercontent.com/u/132900275?v=4",
+    "email": "adolfoproyecto56@gmail.com",
+    "phone": null,
+    "url": "https://github.com/adolfitou",
+    "summary": "Soy administrador de sistemas focalizado en temas de virualización por contenedores a demás de que me gusta investigar y probar cosas en linux. También como programador me gusta el lenguaje java. Mi propósito a futuro es aprender a trabajar con diversas erramientas del flujo CICD con el proposito de formarme como DevOps.",
+    "location": {
+      "address": null,
+      "postalCode": null,
+      "city": "Murcia",
+      "countryCode": "ES",
+      "region": "Murcia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Adolfo López Sánchez",
+        "url": "https://linkedin.com/in/adolfo-lopez-sanchez"
+      },
+      {
+        "network": "GitHub",
+        "username": "adolfo-lopez-sanchez",
+        "url": "https://github.com/adolfitou"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Vrioeurope",
+      "position": "Support IT",
+      "url": "https://vrioeurope.com/",
+      "startDate": "2023-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Realicé labores de solporte técnico. También toqué un poco de active directory. Mi foco principal Durante mis prácticas fue administrar docker, tomar documentación, probar kubernetes y montar un sistema de monitoreo con Prometheus y Graphana."
+    }
+  ],
+  "education": [
+    {
+      "institution": "IES Floridablanca",
+      "url": "https://iesfloridablanca.es/",
+      "area": "Técnico superior en desarrollo de aplicaciones web.",
+      "studyType": "DAW",
+      "startDate": "2024-01-01",
+      "endDate": null
+    },
+    {
+      "institution": "IES San Juan de la Cruz",
+      "url": "https://www.iessanjuandelacruz.com/",
+      "area": "Técnico Superior de Administración de sistemas informáticos en red.",
+      "studyType": "ASIR",
+      "startDate": "2021-01-01",
+      "endDate": "2024-01-01"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "PERMISO B",
+      "date": "2021-11-07",
+      "issuer": "DGT",
+      "url": "https://certificate.com"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Astro"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "Apache"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "GIT"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Graphana"
+    },
+    {
+      "name": "LDAP"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Inglés",
+      "level": "A2"
+    },
+    {
+      "name": "Español",
+      "level": "Nativo"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Centro multimedia en Raspberry Pi con acceso remoto por VPN",
+      "description": "Consiste en un servidor multimedia instalado con Docker en una Raspberry Pi con una serie de contenedores que dotan de funcionalidades tales como acceso remoto, monitoreo de la Raspberry y subida de contenido remótamente.",
+      "highlights": [
+        "Muy alavado Por el profesorado del IES San Juan de la Cruz",
+        "Proyecto muy completo",
+        "Azure",
+        "docker-compose",
+        "Linux",
+        "Graphana",
+        "Docker Networking"
+      ],
+      "url": "https://drive.google.com/drive/folders/1R_sNBZEadadDJJZIzlv6GEaiWkMZkjaq?usp=drive_link",
+      "github": null
+    }
+  ]
+}

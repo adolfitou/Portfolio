@@ -11,6 +11,9 @@ importers:
       astro:
         specifier: ^5.13.3
         version: 5.13.3(@types/node@24.3.0)(rollup@4.48.0)(typescript@5.9.2)
+      hotkeypad:
+        specifier: ^1.0.2
+        version: 1.0.2
       ninja-keys:
         specifier: ^1.2.2
         version: 1.2.2
@@ -794,6 +797,9 @@ packages:
 
   hastscript@9.0.1:
     resolution: {integrity: sha512-g7df9rMFX/SPi34tyGCyUBREQoKkapwdY/T04Qn9TDWfHhAYt4/I0gMVirzK5wEzeUqIjEB+LXC/ypb7Aqno5w==}
+
+  hotkeypad@1.0.2:
+    resolution: {integrity: sha512-vvhHZfhNx5LtRoO8+db2Y8Q4QKoaqVbeu2iGMZjV9NAYmHfWTFQNJMWkmqVyhYwoTPLoKDd7GgjaG3rOtTF5pA==}
 
   hotkeys-js@3.8.7:
     resolution: {integrity: sha512-ckAx3EkUr5XjDwjEHDorHxRO2Kb7z6Z2Sxul4MbBkN8Nho7XDslQsgMJT+CiJ5Z4TgRxxvKHEpuLE3imzqy4Lg==}
@@ -2300,6 +2306,8 @@ snapshots:
       hast-util-parse-selector: 4.0.0
       property-information: 7.1.0
       space-separated-tokens: 2.0.2
+
+  hotkeypad@1.0.2: {}
 
   hotkeys-js@3.8.7: {}
 
