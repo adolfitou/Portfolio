@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Adolfo López Sánchez",
-    "label": "Desarroyador Web & Administrador de sistemas",
+    "label": "Desarrollador Web & Administrador de Sistemas",
     "image": "https://avatars.githubusercontent.com/u/132900275?v=4",
     "email": "adolfoproyecto56@gmail.com",
     "phone": null,
     "url": "https://adolfitou.github.io/Portfolio/",
-    "summary": "Soy administrador de sistemas focalizado en temas de virualización por contenedores a demás de que me gusta investigar y probar cosas en linux. También como programador me gusta el lenguaje java. Mi propósito a futuro es aprender a trabajar con diversas erramientas del flujo CICD con el proposito de formarme como DevOps.",
+    "summary": "Soy administrador de sistemas especializado en virtualización por contenedores. Además, me gusta investigar y experimentar con Linux. Como programador, me atrae especialmente el lenguaje Java. Mi propósito a futuro es aprender a trabajar con diversas herramientas del flujo CI/CD con el objetivo de formarme como DevOps.",
     "location": {
       "address": null,
       "postalCode": null,
@@ -22,7 +22,7 @@
       },
       {
         "network": "GitHub",
-        "username": "adolfo-lopez-sanchez",
+        "username": "adolfitou",
         "url": "https://github.com/adolfitou"
       }
     ]
@@ -34,14 +34,14 @@
       "url": "https://vrioeurope.com/",
       "startDate": "2023-01-01",
       "endDate": "2023-01-01",
-      "summary": "Realicé labores de solporte técnico. También toqué un poco de active directory. Mi foco principal Durante mis prácticas fue administrar docker, tomar documentación, probar kubernetes y montar un sistema de monitoreo con Prometheus y Graphana."
+      "summary": "Realicé labores de soporte técnico y trabajé con Active Directory. Durante mis prácticas, mi enfoque principal fue administrar Docker, documentar procesos, probar Kubernetes y montar un sistema de monitoreo con Prometheus y Grafana."
     }
   ],
   "education": [
     {
       "institution": "IES Floridablanca",
       "url": "https://iesfloridablanca.es/",
-      "area": "Técnico superior en desarrollo de aplicaciones web.",
+      "area": "Técnico Superior en Desarrollo de Aplicaciones Web.",
       "studyType": "DAW",
       "startDate": "2024-01-01",
       "endDate": null
@@ -49,7 +49,7 @@
     {
       "institution": "IES San Juan de la Cruz",
       "url": "https://www.iessanjuandelacruz.com/",
-      "area": "Técnico Superior de Administración de sistemas informáticos en red.",
+      "area": "Técnico Superior en Administración de Sistemas Informáticos en Red.",
       "studyType": "ASIR",
       "startDate": "2021-01-01",
       "endDate": "2024-01-01"
@@ -118,9 +118,9 @@
   "projects": [
     {
       "name": "Centro multimedia en Raspberry Pi con acceso remoto por VPN",
-      "description": "Consiste en un servidor multimedia instalado con Docker en una Raspberry Pi con una serie de contenedores que dotan de funcionalidades tales como acceso remoto, monitoreo de la Raspberry y subida de contenido remótamente.",
+      "description": "Desarrollé un servidor multimedia instalado con Docker en una Raspberry Pi, con varios contenedores que proporcionan funcionalidades como acceso remoto, monitoreo del sistema y subida de contenido de forma remota.",
       "highlights": [
-        "Muy alavado Por el profesorado del IES San Juan de la Cruz",
+        "Muy valorado Por el profesorado del IES San Juan de la Cruz",
         "Proyecto muy completo",
         "Azure",
         "docker-compose",
